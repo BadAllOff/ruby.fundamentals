@@ -1,8 +1,10 @@
-# Fundamental programming with ruby examples [![Build Status](https://travis-ci.org/khusnetdinov/ruby.fundamental.svg?branch=master)](https://travis-ci.org/khusnetdinov/ruby.fundamental)
+# Основы программирования с примерами на Ruby [![Build Status](https://travis-ci.org/khusnetdinov/ruby.fundamental.svg?branch=master)](https://travis-ci.org/khusnetdinov/ruby.fundamental)
 
-This is repo keeps examples with description modern principles, patterns.
+Это репозиторий хранит примеры с описанием современных принципов, шаблонов проектирования.
+###### Перевод в процессе. Жду ваших конструктивных замечаний.
 
-#### Translations:
+#### Переводы:
+  - [English](https://github.com/khusnetdinov/ruby.fundamental) Оригинал
   - [Chinese](https://github.com/fanjieqi/ruby.fundamental)
 
 #### Content:
